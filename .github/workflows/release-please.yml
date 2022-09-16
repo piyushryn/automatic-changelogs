@@ -1,8 +1,6 @@
 on:
   push:
-    branches:
-      - main
-name: release-please
+    branch: main
 jobs:
   release-please:
     runs-on: ubuntu-latest
