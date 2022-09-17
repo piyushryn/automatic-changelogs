@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.1](https://github.com/piyushryn/automatic-changelogs/compare/v2.1.0...v2.1.1) (2022-09-17)
+
+
+### Bug Fixes
+
+* **bug:** expected release bump to 2.1.1 ([c59aa16](https://github.com/piyushryn/automatic-changelogs/commit/c59aa166f4a8543796328734cccabef6124c0b7d))
+
 ## [2.1.0](https://github.com/piyushryn/automatic-changelogs/compare/v2.0.0...v2.1.0) (2022-09-17)
 
 
