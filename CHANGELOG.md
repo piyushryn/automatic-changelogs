@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.1.0](https://github.com/piyushryn/automatic-changelogs/compare/v1.0.0...v1.1.0) (2022-09-17)
+
+
+### Features
+
+* **package.json:** add package json ([a9cd66b](https://github.com/piyushryn/automatic-changelogs/commit/a9cd66bcf852be0ce78910f980b8645161666b48))
+
+
+### Miscellaneous
+
+* add changelogs ([8189e35](https://github.com/piyushryn/automatic-changelogs/commit/8189e356d0cc6662b53a670a2fe62e47708f3fcb))
+
 ## 1.0.0 (2022-09-16)
 
 
