@@ -1,5 +1,22 @@
 # Changelog
 
+## [2.0.0](https://github.com/piyushryn/automatic-changelogs/compare/v1.1.0...v2.0.0) (2022-09-17)
+
+
+### ⚠ BREAKING CHANGES
+
+* **breaking.txt:** this should update the major version
+
+### Features
+
+* **breaking.txt:** add a breaking change ([d0653b9](https://github.com/piyushryn/automatic-changelogs/commit/d0653b98c08fa3057c5983605445bd7bb69cbe85))
+* **feature.txt:** new feature ([143c026](https://github.com/piyushryn/automatic-changelogs/commit/143c026912fefd16c0c5e2a950fa836c99f7ad38))
+
+
+### Bug Fixes
+
+* test for bugfix ([05714fb](https://github.com/piyushryn/automatic-changelogs/commit/05714fb70eb0fb24a2cec0f927fe804c9c25834c))
+
 ## [1.1.0](https://github.com/piyushryn/automatic-changelogs/compare/v1.0.0...v1.1.0) (2022-09-17)
 
 
